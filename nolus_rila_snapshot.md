@@ -1,8 +1,8 @@
-Snapshot updates every 6 hours
+#### Snapshot updates every 6 hours
 
-Version tag: v0.1.43
+##### Version tag: v0.1.43
 
-How to use: 
+### How to use: 
 ```python
 
 sudo systemctl stop nolusd
